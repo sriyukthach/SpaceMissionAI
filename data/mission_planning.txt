@@ -1,0 +1,213 @@
+SPACE MISSION PLANNING
+
+1. INTRODUCTION
+
+Space mission planning is the process of defining, designing, preparing, and organizing a mission before a spacecraft or satellite is launched.
+
+A space mission may be designed for communication, Earth observation, navigation, scientific research, weather forecasting, planetary exploration, or technology demonstration.
+
+Mission planning involves scientists, aerospace engineers, software engineers, mission analysts, project managers, and safety specialists.
+
+The main purpose of mission planning is to ensure that the mission has clear objectives, a technically feasible design, an appropriate budget, and a realistic schedule.
+
+2. MISSION OBJECTIVES
+
+Every space mission begins with clearly defined objectives.
+
+A mission objective describes what the spacecraft is expected to accomplish.
+
+Examples include:
+- Observing weather patterns from orbit
+- Providing communication services
+- Collecting images of Earth
+- Studying the atmosphere
+- Exploring the Moon or another planet
+- Demonstrating new spacecraft technology
+
+Mission objectives influence the spacecraft design, launch vehicle selection, orbit, instruments, ground systems, and mission duration.
+
+3. FEASIBILITY STUDY
+
+A feasibility study determines whether a proposed mission can realistically be completed.
+
+Engineers and scientists evaluate:
+- Available technology
+- Required scientific instruments
+- Expected mission cost
+- Launch opportunities
+- Spacecraft mass and power requirements
+- Communication requirements
+- Technical risks
+- Mission schedule
+
+If the mission is not feasible, its objectives or design may be revised.
+
+4. MISSION REQUIREMENTS
+
+Mission requirements describe the conditions that the spacecraft and mission systems must satisfy.
+
+Requirements may include:
+- Required imaging resolution
+- Expected mission lifetime
+- Communication capability
+- Electrical power availability
+- Temperature limits
+- Spacecraft mass limits
+- Reliability expectations
+- Target orbit
+
+Requirements help engineers verify whether the spacecraft design meets the mission objectives.
+
+5. SPACECRAFT DESIGN
+
+Spacecraft design includes several important subsystems.
+
+The structure provides mechanical support.
+
+The electrical power subsystem generates, stores, and distributes electricity. Many satellites use solar panels and batteries.
+
+The communication subsystem exchanges information with ground stations.
+
+The thermal control subsystem keeps spacecraft components within acceptable temperature ranges.
+
+The attitude determination and control subsystem helps determine and maintain spacecraft orientation.
+
+The onboard computer processes information and coordinates spacecraft functions.
+
+The payload performs the mission's main scientific or operational purpose.
+
+6. ORBIT SELECTION
+
+An orbit is the path followed by a spacecraft around a celestial body.
+
+Low Earth Orbit (LEO) is commonly used for Earth observation, scientific research, and many communication satellite constellations.
+
+Medium Earth Orbit (MEO) is used by several navigation satellite systems.
+
+Geostationary Earth Orbit (GEO) allows a satellite in a circular equatorial orbit to appear fixed above one location on Earth's equator.
+
+Polar orbits pass near Earth's poles and can provide coverage of many regions as Earth rotates.
+
+Sun-synchronous orbits are designed so a satellite passes over a location at approximately the same local solar time, making them useful for consistent Earth observation.
+
+Orbit selection depends on the mission objective, coverage requirements, communication needs, and launch capabilities.
+
+7. LAUNCH VEHICLE SELECTION
+
+A launch vehicle transports a spacecraft or payload toward its intended orbit or trajectory.
+
+Selection depends on:
+- Payload mass
+- Required orbit
+- Launch vehicle capability
+- Payload dimensions
+- Mission schedule
+- Reliability considerations
+- Available launch services
+
+Examples of launch vehicles include ISRO's PSLV and GSLV families, SpaceX's Falcon 9, and other orbital launch systems.
+
+8. TRAJECTORY PLANNING
+
+A trajectory describes the planned path of a spacecraft during flight.
+
+Mission analysts study how the spacecraft moves under gravitational forces and other influences.
+
+Trajectory planning considers the destination, orbital requirements, fuel limitations, timing, and mission objectives.
+
+For planetary missions, launch windows may be influenced by the relative positions of Earth and the destination.
+
+9. MISSION BUDGET AND SCHEDULE
+
+A mission budget estimates the financial resources required for design, manufacturing, testing, launch, and operations.
+
+A mission schedule defines major milestones such as:
+- Concept approval
+- Preliminary design review
+- Critical design review
+- Manufacturing
+- System integration
+- Environmental testing
+- Launch readiness
+- Launch
+- Mission operations
+
+Delays may occur because of technical problems, weather, manufacturing challenges, or changes in mission requirements.
+
+10. RISK ASSESSMENT
+
+Space missions involve technical and environmental risks.
+
+Possible risks include:
+- Launch vehicle failure
+- Communication interruptions
+- Power system problems
+- Thermal issues
+- Instrument malfunction
+- Software defects
+- Orbital debris exposure
+- Unexpected environmental conditions
+
+Engineers assess the likelihood and consequences of risks and develop methods to reduce them.
+
+Redundancy, testing, reviews, and fault detection are common risk-reduction approaches.
+
+11. GROUND SEGMENT PLANNING
+
+The ground segment includes the facilities and systems used to communicate with and support a spacecraft.
+
+It may include:
+- Ground stations
+- Mission control centers
+- Data processing facilities
+- Communication networks
+- Tracking equipment
+- Mission planning software
+
+The ground segment supports spacecraft monitoring, communication, and mission data processing.
+
+12. MISSION LIFECYCLE
+
+A typical space mission lifecycle includes:
+
+Concept development
+Mission planning
+System design
+Manufacturing
+Integration and testing
+Launch preparation
+Launch
+Deployment and commissioning
+Routine operations
+End-of-mission activities
+
+The exact lifecycle varies according to the mission.
+
+13. MISSION SUCCESS
+
+Mission success is evaluated against defined objectives and requirements.
+
+A mission may achieve full success, partial success, or fail to meet its primary objectives.
+
+For example, a spacecraft may reach orbit successfully but experience problems with one scientific instrument.
+
+Mission success is therefore broader than launch success alone.
+
+14. END-OF-MISSION PLANNING
+
+Mission planners consider how the spacecraft will be handled when its useful life ends.
+
+Depending on the mission, this may involve:
+- Controlled reentry
+- Natural orbital decay
+- Relocation to a disposal orbit
+- Passivation of stored energy sources
+- Final data collection
+
+Responsible end-of-mission planning helps reduce long-term space debris risks.
+
+15. SUMMARY
+
+Mission planning transforms a scientific or operational goal into a coordinated space mission.
+
+It includes objective definition, feasibility analysis, spacecraft design, orbit selection, launch planning, risk assessment, ground support, and mission lifecycle management.

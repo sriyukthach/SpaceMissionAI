@@ -1,0 +1,217 @@
+MISSION CONTROL AND SPACECRAFT OPERATIONS
+
+1. INTRODUCTION
+
+Mission control refers to the teams, facilities, and systems used to monitor and support spacecraft missions.
+
+Mission control personnel work with spacecraft data, communication systems, mission plans, and technical procedures.
+
+Their goal is to maintain awareness of mission status and support successful mission operations.
+
+2. MISSION CONTROL CENTER
+
+A mission control center is a facility where teams monitor and coordinate mission activities.
+
+It may contain:
+- Operator workstations
+- Communication systems
+- Data visualization displays
+- Mission planning tools
+- Telemetry processing systems
+- Communication links to ground stations
+
+The exact layout depends on the organization and mission.
+
+3. MISSION CONTROL TEAMS
+
+Mission control involves specialists from different engineering disciplines.
+
+Typical responsibilities may include:
+
+Flight Director:
+Coordinates mission activities and operational decisions.
+
+Flight Dynamics Team:
+Analyzes spacecraft trajectories and orbital information.
+
+Communications Team:
+Supports communication links between the spacecraft and ground systems.
+
+Power Systems Team:
+Monitors electrical power generation, storage, and distribution.
+
+Thermal Systems Team:
+Monitors spacecraft temperature conditions.
+
+Payload Operations Team:
+Supports the scientific or operational instruments carried by the spacecraft.
+
+These responsibilities vary between organizations.
+
+4. TELEMETRY
+
+Telemetry is information transmitted from a spacecraft to ground systems.
+
+Telemetry may describe:
+- Spacecraft temperature
+- Battery status
+- Electrical power
+- Instrument health
+- Communication status
+- Spacecraft orientation
+- Subsystem performance
+
+Engineers use telemetry to understand spacecraft conditions.
+
+5. TRACKING
+
+Tracking is the process of determining or estimating the location and motion of a spacecraft.
+
+Ground-based systems and other navigation techniques may be used.
+
+Tracking information supports orbit determination, communication planning, and mission awareness.
+
+6. COMMANDING
+
+Spacecraft commanding is the process through which authorized ground systems send instructions to a spacecraft.
+
+In real missions, commanding is performed using validated operational procedures, permissions, and safety controls.
+
+The SpaceMissionAI educational chatbot does not create, send, or execute spacecraft commands.
+
+It only explains the concept of spacecraft commanding.
+
+7. COMMUNICATION WITH SPACECRAFT
+
+Spacecraft communicate with Earth using radio-frequency systems or other communication technologies.
+
+Ground stations receive spacecraft signals and may transmit authorized communications.
+
+Communication performance depends on distance, antenna capabilities, spacecraft orientation, interference, and other factors.
+
+8. GROUND STATIONS
+
+Ground stations are facilities that communicate with spacecraft.
+
+A network of ground stations can improve communication coverage.
+
+Low Earth orbit satellites may be visible to a particular ground station only during certain orbital passes.
+
+Satellites farther from Earth may have different communication requirements.
+
+9. REAL-TIME MONITORING
+
+Mission controllers monitor spacecraft information to detect unusual conditions.
+
+Monitoring may include reviewing telemetry trends, checking subsystem status, and comparing observed performance with expected behavior.
+
+Real-time monitoring helps teams maintain situational awareness.
+
+10. MISSION PHASES
+
+Mission control responsibilities vary across mission phases.
+
+During launch, teams may focus on launch progress and spacecraft separation.
+
+During early operations, teams may monitor spacecraft activation and initial health.
+
+During commissioning, teams evaluate whether spacecraft systems and instruments operate as intended.
+
+During routine operations, teams support mission objectives and monitor spacecraft health.
+
+At the end of the mission, teams support planned disposal or shutdown activities where applicable.
+
+11. ANOMALY DETECTION
+
+An anomaly is an unexpected event or condition.
+
+Examples include:
+- Unexpected temperature readings
+- Reduced electrical power
+- Communication interruptions
+- Sensor inconsistencies
+- Instrument malfunctions
+
+Mission teams investigate anomalies using available telemetry, engineering knowledge, and approved procedures.
+
+An anomaly does not always indicate complete mission failure.
+
+12. FAULT DETECTION AND PROTECTION
+
+Some spacecraft include automated fault detection and protection features.
+
+These systems may detect certain abnormal conditions and place spacecraft equipment into a safer operating state.
+
+A spacecraft may have a safe mode intended to protect essential functions while engineers investigate problems.
+
+Specific fault responses vary by spacecraft design.
+
+13. SPACECRAFT SAFE MODE
+
+Safe mode is a protective operating condition used by some spacecraft.
+
+It generally prioritizes essential functions such as power availability, thermal safety, and communication.
+
+Nonessential activities may be reduced or suspended.
+
+Mission controllers analyze the situation before normal operations resume.
+
+14. MISSION DATA PROCESSING
+
+Spacecraft generate information that must be received, stored, processed, and interpreted.
+
+Scientific missions may produce images, measurements, or observations.
+
+Ground data systems convert raw mission data into useful information for scientists and operators.
+
+15. COMMUNICATION DELAY
+
+Communication delay is the time required for a signal to travel between the spacecraft and Earth.
+
+For spacecraft close to Earth, this delay is relatively small.
+
+For distant planetary spacecraft, communication delays can be several minutes or longer.
+
+Because signals travel at finite speed, distant missions cannot always depend on immediate ground responses.
+
+16. AUTONOMOUS SPACECRAFT FUNCTIONS
+
+Some spacecraft can perform limited onboard decisions using predefined software logic.
+
+Autonomous functions can support spacecraft safety and reduce dependence on immediate communication with Earth.
+
+Autonomy does not mean the spacecraft operates without mission planning or engineering oversight.
+
+17. SPACE DEBRIS AWARENESS
+
+Space debris consists of nonfunctional human-made objects in space.
+
+Debris can pose a collision risk to active spacecraft.
+
+Organizations use tracking information and collision risk assessments to support safe operations.
+
+18. MISSION CONTROL DURING EMERGENCIES
+
+Unexpected spacecraft conditions may require coordinated technical assessment.
+
+Mission teams evaluate available data and use approved operational processes.
+
+The exact response depends on the spacecraft and the nature of the problem.
+
+Educational explanations should not be treated as real operational instructions.
+
+19. DIFFERENCE BETWEEN MISSION CONTROL AND LAUNCH CONTROL
+
+Launch control primarily coordinates launch vehicle and launch-site activities before and during launch.
+
+Mission control generally supports the spacecraft or broader mission after launch, although responsibilities can overlap.
+
+Different organizations divide these roles differently.
+
+20. SUMMARY
+
+Mission control combines people, communication systems, telemetry, tracking, data analysis, and operational coordination.
+
+It supports spacecraft health monitoring and the achievement of mission objectives.
+
+SpaceMissionAI explains these concepts but does not perform mission control.
